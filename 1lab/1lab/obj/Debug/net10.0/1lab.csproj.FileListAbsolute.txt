@@ -1,0 +1,14 @@
+C:\Users\Dikany\Desktop\1lab_code\1lab\1lab\bin\Debug\net10.0\1lab.exe
+C:\Users\Dikany\Desktop\1lab_code\1lab\1lab\bin\Debug\net10.0\1lab.deps.json
+C:\Users\Dikany\Desktop\1lab_code\1lab\1lab\bin\Debug\net10.0\1lab.runtimeconfig.json
+C:\Users\Dikany\Desktop\1lab_code\1lab\1lab\bin\Debug\net10.0\1lab.dll
+C:\Users\Dikany\Desktop\1lab_code\1lab\1lab\bin\Debug\net10.0\1lab.pdb
+C:\Users\Dikany\Desktop\1lab_code\1lab\1lab\obj\Debug\net10.0\1lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dikany\Desktop\1lab_code\1lab\1lab\obj\Debug\net10.0\1lab.AssemblyInfoInputs.cache
+C:\Users\Dikany\Desktop\1lab_code\1lab\1lab\obj\Debug\net10.0\1lab.AssemblyInfo.cs
+C:\Users\Dikany\Desktop\1lab_code\1lab\1lab\obj\Debug\net10.0\1lab.csproj.CoreCompileInputs.cache
+C:\Users\Dikany\Desktop\1lab_code\1lab\1lab\obj\Debug\net10.0\1lab.dll
+C:\Users\Dikany\Desktop\1lab_code\1lab\1lab\obj\Debug\net10.0\refint\1lab.dll
+C:\Users\Dikany\Desktop\1lab_code\1lab\1lab\obj\Debug\net10.0\1lab.pdb
+C:\Users\Dikany\Desktop\1lab_code\1lab\1lab\obj\Debug\net10.0\1lab.genruntimeconfig.cache
+C:\Users\Dikany\Desktop\1lab_code\1lab\1lab\obj\Debug\net10.0\ref\1lab.dll
